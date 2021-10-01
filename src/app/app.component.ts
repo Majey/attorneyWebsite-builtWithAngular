@@ -2,8 +2,10 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'pm-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  template: `
+    <pm-header>
+    
+  `
 })
 export class AppComponent {
   title = 'attorney-website-angularVersion';
