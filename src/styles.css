@@ -106,17 +106,19 @@ a:hover {
     text-decoration: underline;
 }
 
-/* .welcome-carousel-image1 {
+.welcome-carousel-image1 {
     box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
-    background-image: url("../images/AdobeStock_200642827.jpg");
+    background-image: url("./assets/images/AdobeStock_228639334.jpg");
 }
 
 .welcome-carousel-image2 {
     box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
-    background-image: url("../images/AdobeStock_228639334.jpg");
+    background-image: url("./assets/images/AdobeStock_317072265.jpg");
 }
 
 .welcome-carousel-image3 {
     box-shadow: inset 0 0 0 100vw rgba(0,0,0,0.3);
-    background-image: url("../images/AdobeStock_317072265.jpg");
-} */
+    background-image: url("./assets/images/AdobeStock_200642827.jpg");
+}
+
+
