@@ -20,8 +20,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "docs",
-            // dist/attorney-website-angularVersion
+            "outputPath": "dist/attorney-website-angularVersion",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": "src/polyfills.ts",
